@@ -55,6 +55,7 @@ ExportedObj/
 sysinfo.txt
 
 # Builds
+Builds/
 *.apk
 *.aab
 *.unitypackage
@@ -106,3 +107,5 @@ $RECYCLE.BIN/
 
 # Pycharm project
 .idea
+
+Edits/
