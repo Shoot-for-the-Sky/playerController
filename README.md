@@ -1,6 +1,6 @@
 # Player Controller (Task 8)
 
-## New Features We Added:
+## New Features We Added
 
 1. Player can jump using `Space` key:
    ![jump](gifs/jump.gif)
@@ -10,3 +10,5 @@
    ![swap](gifs/swap.gif)
 4. Player can open a chest if he close to it and using `E` key:
    ![open chest](gifs/open_chest.git.gif)
+
+## [Link to Itch](https://shoot-for-the-sky.itch.io/player-controller)
